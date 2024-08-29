@@ -61,6 +61,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Data provided by the [Tradestie API](https://tradestie.com/api/v1/apps/reddit).
 - Inspired by the Reddit community of [WallStreetBets](https://www.reddit.com/r/wallstreetbets/).
 
----
-
-Feel free to customize this `README.md` based on your specific project details!
