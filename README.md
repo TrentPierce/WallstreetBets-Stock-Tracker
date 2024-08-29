@@ -2,6 +2,8 @@
 
 A dynamic web application that tracks the top 50 stocks discussed on the Reddit WallStreetBets forum. The site automatically updates every hour, displaying the latest stocks ranked by sentiment and popularity. A countdown timer shows the next scheduled update to keep users informed in real-time.
 
+View a live demo here: https://trentpierce.github.io/WallstreetBets-Stock-Tracker/
+
 ## Features
 
 - **Top 50 Stocks**: Displays the most discussed stocks on WallStreetBets based on sentiment and number of comments.
