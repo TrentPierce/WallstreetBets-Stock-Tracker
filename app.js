@@ -24,7 +24,7 @@ setInterval(updateTimer, 1000);
 
 async function fetchStockData() {
     // Using a CORS proxy
-    const proxyUrl = 'https://cors-anywhere.herokuapp.com/'; // Example proxy
+    const proxyUrl = 'https://api.codetabs.com/v1/proxy?quest='; // Example proxy
     const apiUrl = 'https://tradestie.com/api/v1/apps/reddit';
 
     try {
